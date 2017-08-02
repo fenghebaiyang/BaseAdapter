@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">BaseAdapter</string>
+    <string name="listviewdemo">ListViewDemo</string>
+    <string name="recyclerviewdemo">RecyclerViewDemo</string>
 </resources>
